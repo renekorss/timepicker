@@ -1,0 +1,26 @@
+{
+  "name": "@renekorss/jquery-timepicker",
+  "version": "1.0.0",
+  "description": "jQuery UI time picker plugin",
+  "main": "jquery.ui.timepicker.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/renekorss/timepicker.git"
+  },
+  "keywords": [
+    "jquery",
+    "timepicker"
+  ],
+  "author": "François Gélinas",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/renekorss/timepicker/issues"
+  },
+  "homepage": "https://github.com/renekorss/timepicker#readme"
+}

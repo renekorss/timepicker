@@ -1,5 +1,15 @@
+[![npm version](https://badge.fury.io/js/@renekorss/jquery-timepicker.svg)](https://badge.fury.io/js/@renekorss/jquery-timepicker)
+[![npm](https://img.shields.io/npm/dt/@renekorss/jquery-timepicker.svg)](https://www.npmjs.com/package/@renekorss/jquery-timepicker)
+[![Known Vulnerabilities](https://snyk.io/test/github/renekorss/@renekorss/jquery-timepicker/badge.svg?targetFile=package.json)](https://snyk.io/test/github/renekorss/@renekorss/jquery-timepicker?targetFile=package.json)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+
 jQuery UI Timepicker by François Gélinas
 ========================================
+
+Install
+----
+
+    npm install @renekorss/jquery-timepicker
 
 What
 ----
