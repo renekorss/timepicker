@@ -1,6 +1,6 @@
 {
   "name": "@renekorss/jquery-timepicker",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "jQuery UI time picker plugin",
   "main": "jquery.ui.timepicker.js",
   "directories": {
